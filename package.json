@@ -1,0 +1,24 @@
+{
+  "name": "javascript2",
+  "version": "0.0.1",
+  "description": "A social media platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EivindSundbo/javaScript2.git"
+  },
+  "keywords": [
+    "css",
+    "bootstrap",
+    "javascript"
+  ],
+  "author": "Eivind Gjerløw Sundbø <eivind_ber@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EivindSundbo/javaScript2/issues"
+  },
+  "homepage": "https://github.com/EivindSundbo/javaScript2#readme"
+}
