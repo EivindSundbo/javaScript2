@@ -4,7 +4,9 @@
   "description": "A social media platform",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "sass src/scss:dist/css",
+    "watch": "sass --watch src/scss:dist/css & live-server"
+
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,8 @@
   "homepage": "https://github.com/EivindSundbo/javaScript2#readme",
   "dependencies": {
     "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {
+    "sass": "^1.58.3"
   }
 }
